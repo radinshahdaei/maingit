@@ -2,3 +2,5 @@ Hello!
 
 This is a test.
 
+-- version 2
+Hello again.
